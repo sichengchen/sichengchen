@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![my github stats](https://github-readme-stats.vercel.app/api?username=sichengchen&count_private=true&theme=cobalt&layout=compact&line_height=20&show_icons=true)
+![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sichengchen&count_private=true&theme=cobalt&layout=compact)
+
+Email: special(at)scchan(dot)com
 <!--
 **sichengchen/sichengchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
