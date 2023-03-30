@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sichengchen&count_private=true&theme=cobalt&layout=compact)
-
 - 💬 Languages: English, 普通话（简体中文）, 國語（繁體中文）, 吳語（金衢片若干）, 文言, 日本語, Deutsch
 - 📫 Email: github(at)scchan(dot)moe
 <!--
