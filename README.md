@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Languages: English, 漢語（普通话, 國語, 吳語金華話, 吳語永康話, 文言）, 日本語, Deutsch
+- 💬 Languages: English(en), 漢語(zh)（普通话(cmn), 國語(cmn), 吳語金華話(wuu), 吳語永康話(wuu), 文言(lzh)）, 日本語(ja), Deutsch(de)
 - 📫 Email: github(at)scchan(dot)moe
 - 😄 Pronouns: Ta (他) or He/Him
 <!--
