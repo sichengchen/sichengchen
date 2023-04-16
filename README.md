@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 💬 Languages: English, 中文（普通话, 國語, 吳語金華話, 吳語永康話, 文言）, 日本語, Deutsch
+- 💬 Languages: English, 漢語（普通话, 國語, 吳語金華話, 吳語永康話, 文言）, 日本語, Deutsch
 - 📫 Email: github(at)scchan(dot)moe
+- 😄 Pronouns: Ta (他) or He/Him
 <!--
 **sichengchen/sichengchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
