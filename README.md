@@ -5,7 +5,7 @@
 - 😄 Pronouns: Ta (他) or He/Him
 
 **Use:**
-[![Use](https://skillicons.dev/icons?i=c,cpp,java,kotlin,cs,py,pytorch,haskell,matlab,octave,swift,html,css,js,nodejs,react,gatsby,nextjs,tauri,d3,express,md,latex,arduino,linux,mysql,emacs,vim,vscode,androidstudio,idea,git,bash,docker,azure,cloudflare,netlify,ai,ps&theme=light)](https://skillicons.dev)
+[![Use](https://skillicons.dev/icons?i=c,cpp,java,kotlin,cs,py,pytorch,haskell,matlab,octave,swift,html,css,js,nodejs,react,gatsby,nextjs,tauri,d3,express,md,latex,arduino,linux,mysql,emacs,vim,vscode,androidstudio,idea,git,bash,zsh,docker,azure,cloudflare,netlify,ai,ps&theme=light)](https://skillicons.dev)
 
 <!--
 **sichengchen/sichengchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
