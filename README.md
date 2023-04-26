@@ -3,6 +3,9 @@
 - 💬 Languages: English(en), 漢語(zh)（普通话(cmn), 國語(cmn), 吳語金華話(wuu), 吳語永康話(wuu), 文言(lzh)）, 日本語(ja), Deutsch(de)
 - 📫 Email: github(at)scchan(dot)moe
 - 😄 Pronouns: Ta (他) or He/Him
+
+[![Use](https://skillicons.dev/icons?i=c,cpp,java,kotlin,cs,py,pytorch,haskell,matlab,octave,swift,html,css,js,nodejs,react,gatsby,nextjs,tauri,d3,express,md,latex,arduino,linux,mysql,emacs,vim,vscode,androidstudio,idea,git,bash,docker,azure,cloudflare,netlify,ai,ps&theme=light)](https://skillicons.dev)
+
 <!--
 **sichengchen/sichengchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
