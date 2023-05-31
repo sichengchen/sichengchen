@@ -5,8 +5,7 @@
 - 😄 Pronouns: Ta (他) or He/Him
 - 🌱 Motto: One for all, all for one.
 
-![Top Langs](https://github-stats-sandy.vercel.app/api/top-langs/?username=sichengchen&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Stats](https://github-stats-sandy.vercel.app/api?username=sichengchen&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
 
 <!--
 **sichengchen/sichengchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
