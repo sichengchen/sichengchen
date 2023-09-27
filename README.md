@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 💬 Languages: English(en), 漢語(zh)（普通话(cmn), 國語(cmn), 吳語金華話(wuu), 吳語永康話(wuu), 文言(lzh)）, 日本語(ja), Deutsch(de)
-- 😄 Pronouns: Ta (他) or He/Him
 - 🌱 Motto: One for all, all for one.
 
 
