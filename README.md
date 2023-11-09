@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 💬 Languages: English(en), 漢語(zh)（普通话(cmn), 國語(cmn), 吳語金華話(wuu), 吳語永康話(wuu), 文言(lzh)）, 日本語(ja), Deutsch(de)
+- 💬 Speak: English(en), 漢語(zh)（普通话(cmn), 國語(cmn), 吳語金華話(wuu), 吳語永康話(wuu), 文言(lzh)）, 日本語(ja), Deutsch(de)
+- 🎵️ Listen to: Synth Pop, New Wave, Kayōkyoku, J-AOR, Shibuya-kei
+- ✒️ Write with: Pilot Custom 743, Parker 51, Waterman Intense Black, J. Herbin Perle Noire, MIDORI MD Notebook
+- 🖥️ Also write with: My computer
 - 🌱 Motto: One for all, all for one.
-
-
 
 <!--
 **sichengchen/sichengchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
