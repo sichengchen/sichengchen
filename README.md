@@ -5,7 +5,9 @@ This is Chen (C: /ʈʂʰən˧˥/, J: チン, K: 천), Szcheng (Sicheng) (C: /sɯ
 Mainly writing some code for web and iOS apps now.
 
 Read: Traditional Chinese, Simplified Chinese, English, Japanese, German (nur ein bisschen)
+
 Write: Traditional Chinese, Simplified Chinese, English
+
 Speak: Mandarin, Wuu, English
 
 ![Languages](https://gh-stats-eosin.vercel.app/api/top-langs/?username=sichengchen&size_weight=0.5&count_weight=0.5&hide=css,tex,html,less,cmake,makefile&langs_count=6&layout=compact)
