@@ -1,6 +1,6 @@
 # Sicheng Chen
 
-![Top Langs](https://newghstats.vercel.app/api/top-langs/?username=sichengchen&hide=css,html,tex,scss,cmake&layout=compact&langs_count=6)
+![Top Langs](https://newghstats.vercel.app/api/top-langs/?username=sichengchen&hide=css,html,tex,scss,cmake&layout=compact&langs_count=6&size_weight=1&count_weight=0)
 
 Email: [chen.12724@osu.edu](mailto:chen.12724@osu.edu)
 
