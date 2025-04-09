@@ -1,6 +1,6 @@
 # Sicheng Chen
 
-Undergraduate Computer Science and Engineering student at The Ohio State University.
+![Top Langs](https://newghstats.vercel.app/api/top-langs/?username=sichengchen)
 
 Email: [chen.12724@osu.edu](mailto:chen.12724@osu.edu)
 
