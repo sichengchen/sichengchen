@@ -2,9 +2,11 @@
 
 ![Top Langs](https://newghstats.vercel.app/api/top-langs/?username=sichengchen&hide=css,html,tex,scss,cmake&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5)
 
-CSE @ [Ohio State](https://osu.edu) (Aug 2023 - Present)
+CSE @ [**Ohio State**](https://osu.edu) (Aug 2023 - Present)
 
-SDE Intern @ [Kwai](https://ir.kuaishou.com) (May 2025 - Present)
+SDE Intern @ [**Kwai**](https://ir.kuaishou.com) (May 2025 - Present)
+
+Profile picture is: [**Camera Talk** by the Flipper's Guitar](https://rateyourmusic.com/release/album/the-flippers-guitar/camera-talk-3/)
 
 ---
 
