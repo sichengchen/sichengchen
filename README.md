@@ -2,7 +2,7 @@
 
 ![Top Langs](https://newghstats.vercel.app/api/top-langs/?username=sichengchen&hide=css,html,tex,scss,cmake,less,makefile,dockerfile,php,shell,mdx,sass,roff&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5)
 
-CSE @ [**Ohio State**](https://osu.edu) (Aug 2023 - Present)
+B.S. CSE @ [**Ohio State**](https://osu.edu) (Aug 2023 - Present)
 
 SDE Intern @ [**Kwai**](https://ir.kuaishou.com) (May 2025 - August 2025)
 
