@@ -4,7 +4,7 @@
 
 B.S. CSE @ [**Ohio State**](https://osu.edu) (Aug 2023 - Present)
 
-SDE Intern @ [**Kwai**](https://ir.kuaishou.com) (May 2025 - August 2025)
+SDE Intern @ [**Kwai**](https://www.kwai.com/aboutus) ([Kuaishou Technology](https://www.kuaishou.com/en)) (May 2025 - August 2025)
 
 Profile picture is: [**Camera Talk** by the Flipper's Guitar](https://rateyourmusic.com/release/album/the-flippers-guitar/camera-talk-3/)
 
