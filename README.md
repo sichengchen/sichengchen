@@ -10,4 +10,4 @@ Profile picture is: [**Camera Talk** by the Flipper's Guitar](https://rateyourmu
 
 ---
 
-[Homepage](https://scchan.com) | [Photography](https://scchan.notion.site/Featured-215ae73af97a80849e4dce31a7d48ef1) | [Email](mailto:hi@scchan.com) | [LinkedIn](https://www.linkedin.com/in/sichengchen/)
+[Homepage](https://scchan.com)  | [Email](mailto:hi@scchan.com) | [LinkedIn](https://www.linkedin.com/in/sichengchen/)
