@@ -6,7 +6,7 @@ B.S. CSE @ [**Ohio State**](https://osu.edu) (Expected May 2026)
 
 SDE Intern @ [**Kwai**](https://www.kwai.com/aboutus) ([Kuaishou Technology](https://www.kuaishou.com/en)) (May - August 2025)
 
-Profile picture is: [**Camera Talk** by the Flipper's Guitar](https://rateyourmusic.com/release/album/the-flippers-guitar/camera-talk-3/)
+Profile picture is: [**Camera Talk** by the Flipper's Guitar](https://rateyourmusic.com/release/album/the-flippers-guitar/camera-talk-3/) with a Voigtländer rangefinder camera on it
 
 ---
 
