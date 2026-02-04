@@ -8,6 +8,8 @@ SDE Intern @ [**Kwai**](https://www.kwai.com/aboutus) ([Kuaishou Technology](htt
 
 Profile picture is: [**Camera Talk** by the Flipper's Guitar](https://rateyourmusic.com/release/album/the-flippers-guitar/camera-talk-3/) with a Voigtländer rangefinder camera on it
 
+Natural languages: `en`, `zh-cmn` (native), `zh-wuu` (native), `ja` (jlpt-n1), `zh-lzh` (read-only), `de` (ein bisschen), `fr` (un peu), `vi` (learning...)
+
 ---
 
 [Homepage](https://scchan.com)  | [Email](mailto:hi@scchan.com) | [LinkedIn](https://www.linkedin.com/in/sichengchen/)
