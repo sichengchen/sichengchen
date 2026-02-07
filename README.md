@@ -1,6 +1,6 @@
 # Sicheng Chen
 
-![Top Langs](https://newghstats.vercel.app/api/top-langs/?username=sichengchen&hide=css,html,tex,scss,cmake,less,makefile,dockerfile,php,shell,mdx,sass,roff&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://newghstats.vercel.app/api/top-langs/?username=sichengchen&hide=css,html,tex,scss,cmake,less,makefile,dockerfile,php,shell,mdx,sass,roff,Jupyter%20Notebook&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5)
 
 B.S. CSE @ [**Ohio State**](https://osu.edu) (Expected May 2026)
 
