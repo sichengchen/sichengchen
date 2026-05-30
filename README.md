@@ -4,7 +4,7 @@
 
 profile picture is: [**camera talk** by the flipper's guitar](https://rateyourmusic.com/release/album/the-flippers-guitar/camera-talk.p/)
 
-languages: `en`, `zh-cmn` (native), `zh-wuu` (native), `ja` (jlpt-n1), `zh-lzh` (read-only), `de` (ein bisschen), `fr` (un peu)
+languages: english, pǔtōnghuà (native), wugniu (native), nihongo (jlpt n1), wényán (read-only), deutsch (ein bisschen), français (un peu)
 
 ---
 
