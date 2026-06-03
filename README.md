@@ -8,4 +8,4 @@ languages: english, pǔtōnghuà (native), wugniu (native), nihongo (jlpt n1), w
 
 ---
 
-[homepage](https://scchan.com) . [also try this](https://scchan.com/system) . [email](mailto:hi@scchan.com) . [linkedin](https://www.linkedin.com/in/sichengchen/)
+[homepage](https://scchan.com) . [also try this](https://scchan.com/system) . [email](mailto:hi@scchan.com) . [linkedin](https://www.linkedin.com/in/sichengchen/) . [catalog (all links)](https://csc.cat)
