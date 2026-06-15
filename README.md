@@ -8,4 +8,4 @@ languages: english, pǔtōnghuà (native), wugniu (native), nihongo (jlpt n1), w
 
 ---
 
-[homepage](https://csc.cat/homepage) . [also try this](https://csc.cat/system) . [email](mailto:hi@scchan.com) . [blog](https://csc.cat/blog) . [linkedin](https://csc.cat/linkedin) . [catalog (all links)](https://csc.cat)
+[homepage](https://csc.cat/homepage) . [also try this](https://csc.cat/system) . [email](mailto:hi@scchan.com) . [blog](https://csc.cat/blog) . [photos](https://csc.cat/photos) . [linkedin](https://csc.cat/linkedin) . [catalog (all links)](https://csc.cat)
