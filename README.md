@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" alt="Sicheng Chen" src="https://www.scchan.com/name.gif">
+  <img width="2000" height="500" alt="Sicheng Chen" src="https://github.com/user-attachments/assets/ff51c5fe-0dcb-4417-b2bc-c3bf420a8b7c" />
 </p>
 
 # about me
