@@ -6,7 +6,7 @@
 
 profile picture is: [**camera talk** by the flipper's guitar](https://rateyourmusic.com/release/album/the-flippers-guitar/camera-talk.p/)
 
-languages: english, [pǔtōnghuà](https://en.wikipedia.org/wiki/Standard_Chinese) (native), [wugniu](https://en.wikipedia.org/wiki/Wu_Chinese) (native), nihongo (jlpt n1), wényán (read-only), deutsch (ein bisschen), français (un peu)
+languages: english, [pǔtōnghuà](https://en.wikipedia.org/wiki/Standard_Chinese) (native), [wugniu](https://en.wikipedia.org/wiki/Wu_Chinese) (native), nihongo ([jlpt n1](https://www.jlpt.jp/e/about/levelsummary.html)), wényán (read-only), deutsch (ein bisschen), français (un peu)
 
 besides using [pīnyīn](https://en.wikipedia.org/wiki/Pinyin), my name can also be romanized / pronounced as: **zen sy-zen** (wugniu)
 
